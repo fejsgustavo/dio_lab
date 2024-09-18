@@ -40,7 +40,7 @@ Durante o curso foi abordado os seguintes temas:
   4.1 - Comunicação entre recursos do Azure, com internet e rede local (On-premise).</br >
   4.2 - Gateway de VPN.</br >
   4.3 - Express-Route.</br >
-  4.4 - DNS do Azure.</br ></br >
+  4.4 - DNS do Azure.</br >
 
 #
 
