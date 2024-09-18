@@ -8,6 +8,7 @@ Triha <...> Microsoft Azure (AZ-900).
 Durante o curso foi abordado os seguintes temas:
 
 1 - Definições de serviços em Cloud:
+#
   1.1 - Tipos de cloud:
     1.1.1 - Cloud Privada (On-Premise).
     1.1.2 - Cloud Publica (Azure, AWS, OCI, GCP).
