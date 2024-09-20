@@ -40,8 +40,28 @@ Durante o curso foi abordado os seguintes temas:
   4.1 - Comunicação entre recursos do Azure, com internet e rede local (On-premise).</br >
   4.2 - Gateway de VPN.</br >
   4.3 - Express-Route.</br >
-  4.4 - DNS do Azure.</br >
+  4.4 - DNS do Azure.</br ></br >
 
+5 - Armazenamento do Azure:</br >
+> Serviços de Armazenamento:</br >
+		> Contas de Armazenamnto:</br >
+			> Nome globalmente exclusivo.</br >
+			> Acesso a internet em todo mundo.</br >
+			> Opções de redundancia.</br >
+				> LRS (redundancia local) > 11 noves.</br >
+				> ZRS (redundancia de zona) > 12 noves.</br >
+				> GRS (redundancia geografica) > 16 noves</br >
+				> GZRS (redundancia de zona geografica) > 16 noves.</br ></br >
+		> Blob do Azure:</br >
+			> armazenamento de quantidades massiva de dados não estruturados (texto ou dados binários).</br >
+		> Disco do Azure:</br >
+			> maquinas virtuais, apps, etc.</br >
+		> Fila do Azure:</br >
+			> armazenamento de mensagens.</br >
+		> Arquivos do Azure:</br >
+			> compartilhamento de arquivos de rede.</br >
+		> Tabelas do Azure:</br >
+			> fornece opção de chave/atributo para armazenamento de dados estruturados não relacionais.</br >
 #
 
 OBS: este doc será atualizado constantemente durante o curso!</br >
