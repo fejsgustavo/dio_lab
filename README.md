@@ -4,10 +4,10 @@
 Repo para testes e resumos dos LABs da DIO.</br >
 Triha <...> Microsoft Azure (AZ-900).
 
-Durante o curso foi abordado os seguintes temas:
-
 ------------------------------------------------------------------------------------------------------------------
 
+Durante o curso foi abordado os seguintes temas:
+#
 1 - Definições de serviços em Cloud:</br >
  1.1 - Tipos de cloud:</br >
   1.1.1 - Cloud Privada (On-Premise).</br >
