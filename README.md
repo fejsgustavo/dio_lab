@@ -110,8 +110,6 @@ Durante o curso foi abordado os seguintes temas:
 
 ------------------------------------------------------------------------------------------------------------------
 
-#
-
 OBS: este doc será atualizado constantemente durante o curso!</br >
 
 #
