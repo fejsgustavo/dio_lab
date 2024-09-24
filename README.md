@@ -74,7 +74,7 @@ Durante o curso foi abordado os seguintes temas:
 
 ------------------------------------------------------------------------------------------------------------------
 
-6. Acesso, Identidade e Segurança:</br> 
+6 - Acesso, Identidade e Segurança:</br> 
  6.1 - MS Entra-ID:</br>
   6.1.1 - Serviço de gerenciamento de identidade.</br>
  6.2 - Domain Server:</br>
