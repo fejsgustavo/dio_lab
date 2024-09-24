@@ -7,6 +7,8 @@ Triha <...> Microsoft Azure (AZ-900).
 
 Durante o curso foi abordado os seguintes temas:
 
+#
+
 ------------------------------------------------------------------------------------------------------------------
 
 1 - Definições de serviços em Cloud:</br >
@@ -76,38 +78,41 @@ Durante o curso foi abordado os seguintes temas:
 ------------------------------------------------------------------------------------------------------------------
 
 6. Acesso, Identidade e Segurança:</br> 
-6.1 - MS Entra-ID:
-		> Serviço de gerenciamento de identidade.
-	> Domain Server:
-		> Sincronização das permissões do ambiente local para nuvem.
-	> Autenticação:
-		> Identifica pessoa ou serviço;
-		> Solicita credenciais;
-		> Cria principios de identidade e controle de acesso seguro.
-	> Autorização:
-		> Nível de acesso;
-		> Quais dados podem acessar.
-	> MFA (multifactor autentication).
-		> Algo que vc sabe;
-		> Algo que vc possui;
-		> Algo que vc é.
-	> Acesso Condicional:
-		> Associação de user ou grupo;
-		> Local do IP;
-		> Dispositivo;
-		> Aplicativo;
-		> Detecção de risco;
-	> Proteção Completa:
-		> Segurança Física;
-		> Identidade de acesso;
-		> Perimetro;
-		> Rede;
-		> Computação;
-		> Aplicativo;
-		> Dados.
-	> MS Defender for Cloud:
-		> Monitoramento e proteção contra ameaças;
-		> Multicloud;
+ 6.1 - MS Entra-ID:</br>
+  6.1.1 - Serviço de gerenciamento de identidade.</br>
+ 6.2 - Domain Server:</br>
+  6.2.1 - Sincronização das permissões do ambiente local para nuvem.</br>
+ 6.3 -Autenticação:</br>
+  6.3.1 - Identifica pessoa ou serviço;</br>
+  6.3.2 - Solicita credenciais;</br>
+  6.3.3 - Cria principios de identidade e controle de acesso seguro.</br>
+ 6.4 - Autorização:</br>
+  6.4.1 - Nível de acesso;</br>
+  6.4.2 - Quais dados podem acessar.</br>
+ 6.5 - MFA (multifactor autentication):</br>
+  6.5.1 - Algo que vc sabe;</br>
+  6.5.2 - Algo que vc possui;</br>
+  6.5.3 - Algo que vc é.</br>
+ 6.6 - Acesso Condicional:</br>
+  6.6.1 - Associação de user ou grupo;</br>
+  6.6.2 - Local do IP;</br>
+  6.6.3 - Dispositivo;</br>
+  6.6.4 - Aplicativo;</br>
+  6.6.5 - Detecção de risco.</br>
+ 6.7 - Proteção Completa:</br>
+  6.7.1 - Segurança Física;</br>
+  6.7.2 - Identidade de acesso;</br>
+  6.7.3 - Perimetro;</br>
+  6.7.4 - Rede;</br>
+  6.7.5 - Computação;</br>
+  6.7.6 - Aplicativo;</br>
+  6.7.7 - Dados.</br>
+ 6.8 - MS Defender for Cloud:</br>
+  6.8.1 - Monitoramento e proteção contra ameaças;</br>
+  6.8.2 - Multicloud.</br>
+
+------------------------------------------------------------------------------------------------------------------
+
 #
 
 OBS: este doc será atualizado constantemente durante o curso!</br >
