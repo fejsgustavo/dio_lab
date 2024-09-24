@@ -51,7 +51,7 @@ Durante o curso foi abordado os seguintes temas:
     5.1.2.3.1 - LRS (redundancia local) > 11 noves.</br >
     5.1.2.3.2 - ZRS (redundancia de zona) > 12 noves.</br >
     5.1.2.3.3 - GRS (redundancia geografica) > 16 noves</br >
-    5.1.2.3.4 GZRS (redundancia de zona geografica) > 16 noves.</br ></br >
+    5.1.2.3.4 GZRS (redundancia de zona geografica) > 16 noves.</br >
  
  5.2 - Blob do Azure:</br >
   5.2.1 - Armazenamento de quantidades massiva de dados não estruturados (texto ou dados binários).</br >
