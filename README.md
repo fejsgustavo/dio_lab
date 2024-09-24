@@ -7,6 +7,8 @@ Triha <...> Microsoft Azure (AZ-900).
 
 Durante o curso foi abordado os seguintes temas:
 
+------------------------------------------------------------------------------------------------------------------
+
 1 - Definições de serviços em Cloud:</br >
  1.1 - Tipos de cloud:</br >
   1.1.1 - Cloud Privada (On-Premise).</br >
@@ -16,6 +18,8 @@ Durante o curso foi abordado os seguintes temas:
  1.2 - Modelos de responsabilide:</br > 
   1.2.1 - Resposabilidade compartilhada.</br >
    1.2.1.1 - link DOCs: https://learn.microsoft.com/pt-br/azure/security/fundamentals/shared-responsibility</br > </br >
+
+------------------------------------------------------------------------------------------------------------------
 
 2 - Conceitos da Cloud Azure:</br >
  2.1 - Regiões.</br >
@@ -27,6 +31,8 @@ Durante o curso foi abordado os seguintes temas:
  2.6 - Assinaturas.</br >
  2.7 - Grupos de gerenciamento.</br ></br >
 
+------------------------------------------------------------------------------------------------------------------
+
 3 - Computação e Rede do Azure:</br >
  3.1 - Tipos de Computação:</br >
   3.1.1 - Maquinas Virtuais (VMs).</br >
@@ -36,11 +42,15 @@ Durante o curso foi abordado os seguintes temas:
    3.1.4.1 - Dominio de falha (racks <..> vertical).</br >
    3.1.4.2 - Dominio de atualização (VMs <..> horizontal).</br ></br >
 
+------------------------------------------------------------------------------------------------------------------
+
 4 - Redes virtuais do Azure (vNet):</br >
  4.1 - Comunicação entre recursos do Azure, com internet e rede local (On-premise).</br >
  4.2 - Gateway de VPN.</br >
  4.3 - Express-Route.</br >
  4.4 - DNS do Azure.</br ></br >
+
+------------------------------------------------------------------------------------------------------------------
 
 5 - Armazenamento do Azure:</br >
  5.1 - Serviços de Armazenamento:</br >
@@ -67,6 +77,8 @@ Durante o curso foi abordado os seguintes temas:
 
  5.6 - Tabelas do Azure:</br >
   5.6.1 - fornece opção de chave/atributo para armazenamento de dados estruturados não relacionais.</br ></br >
+
+------------------------------------------------------------------------------------------------------------------
   
 #
 
