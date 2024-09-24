@@ -61,25 +61,53 @@ Durante o curso foi abordado os seguintes temas:
     5.1.2.3.1 - LRS (redundancia local) > 11 noves.</br >
     5.1.2.3.2 - ZRS (redundancia de zona) > 12 noves.</br >
     5.1.2.3.3 - GRS (redundancia geografica) > 16 noves</br >
-    5.1.2.3.4 GZRS (redundancia de zona geografica) > 16 noves.</br >
- 
+    5.1.2.3.4 GZRS (redundancia de zona geografica) > 16 noves.</br > 
  5.2 - Blob do Azure:</br >
-  5.2.1 - Armazenamento de quantidades massiva de dados não estruturados (texto ou dados binários).</br >
- 
+  5.2.1 - Armazenamento de quantidades massiva de dados não estruturados (texto ou dados binários).</br > 
  5.3 - Disco do Azure:</br >
-  5.3.1 - Maquinas virtuais, apps, etc.</br >
-		
+  5.3.1 - Maquinas virtuais, apps, etc.</br >		
  5.4 - Fila do Azure:</br >
   5.4.1 - Armazenamento de mensagens.</br >
- 
  5.5 - Arquivos do Azure:</br >
   5.5.1 - Compartilhamento de arquivos de rede.</br >
-
  5.6 - Tabelas do Azure:</br >
   5.6.1 - fornece opção de chave/atributo para armazenamento de dados estruturados não relacionais.</br ></br >
 
 ------------------------------------------------------------------------------------------------------------------
-  
+
+6. Acesso, Identidade e Segurança:</br> 
+6.1 - MS Entra-ID:
+		> Serviço de gerenciamento de identidade.
+	> Domain Server:
+		> Sincronização das permissões do ambiente local para nuvem.
+	> Autenticação:
+		> Identifica pessoa ou serviço;
+		> Solicita credenciais;
+		> Cria principios de identidade e controle de acesso seguro.
+	> Autorização:
+		> Nível de acesso;
+		> Quais dados podem acessar.
+	> MFA (multifactor autentication).
+		> Algo que vc sabe;
+		> Algo que vc possui;
+		> Algo que vc é.
+	> Acesso Condicional:
+		> Associação de user ou grupo;
+		> Local do IP;
+		> Dispositivo;
+		> Aplicativo;
+		> Detecção de risco;
+	> Proteção Completa:
+		> Segurança Física;
+		> Identidade de acesso;
+		> Perimetro;
+		> Rede;
+		> Computação;
+		> Aplicativo;
+		> Dados.
+	> MS Defender for Cloud:
+		> Monitoramento e proteção contra ameaças;
+		> Multicloud;
 #
 
 OBS: este doc será atualizado constantemente durante o curso!</br >
