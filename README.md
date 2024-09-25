@@ -45,9 +45,9 @@ Durante o curso foi abordado os seguintes temas:
   3.1.2 - Area de trabalho virtual do Azure.</br >
   3.1.3 - Conjunto de dimenionamento de VMs.</br >
   
-  3.1.4 - Conjunto de disponibilidade de VMs</br >
-   3.1.4.1 - Dominio de falha (racks <..> vertical).</br >
-   3.1.4.2 - Dominio de atualização (VMs <..> horizontal).</br >
+  3.2 - Conjunto de disponibilidade de VMs</br >
+   3.2.1 - Dominio de falha (racks <..> vertical).</br >
+   3.2.2 - Dominio de atualização (VMs <..> horizontal).</br >
 
 ------------------------------------------------------------------------------------------------------------------
 
