@@ -8,15 +8,17 @@ Triha <...> Microsoft Azure (AZ-900).
 
 Durante o curso foi abordado os seguintes temas:
 #
-1. Definições de serviços em Cloud:</br >
- 1.1. Tipos de cloud:</br >
-  1.1.1. Cloud Privada (On-Premise).</br >
-  1.1.2. Cloud Publica (Azure, AWS, OCI, GCP).</br >
-  1.1.3. Cloud Hibrida (On-premise + Pública).</br >
-  1.1.4. Multi-Cloud (Azure + AWS + OCI).</br >
- 1.2. Modelos de responsabilide:</br > 
-  1.2.1. Resposabilidade compartilhada.</br >
-   1.2.1.1. link DOCs: https://learn.microsoft.com/pt-br/azure/security/fundamentals/shared-responsibility</br > </br >
+1 - Definições de serviços em Cloud:</br >
+
+1.1 - Tipos de cloud:</br >
+1.1.1 - Cloud Privada (On-Premise).</br >
+1.1.2 - Cloud Publica (Azure, AWS, OCI, GCP).</br >
+1.1.3 - Cloud Hibrida (On-premise + Pública).</br >
+1.1.4 - Multi-Cloud (Azure + AWS + OCI).</br >
+
+1.2 - Modelos de responsabilide:</br > 
+1.2.1 - Resposabilidade compartilhada.</br >
+1.2.1.1 - link DOCs: https://learn.microsoft.com/pt-br/azure/security/fundamentals/shared-responsibility</br >
 
 ------------------------------------------------------------------------------------------------------------------
 
