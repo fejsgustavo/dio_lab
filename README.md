@@ -134,6 +134,32 @@ Durante o curso foi abordado os seguintes temas:
 
 ------------------------------------------------------------------------------------------------------------------
 
+7 - Gerenciamento de custos Azure:</br>
+	7.1 - Fatores que afetam os custos:</br>
+		7.1.1 - Tipo de recurso;</br>
+		7.1.2 - Consumo;</br>
+		7.1.3 - Manutenção;</br>
+		7.1.4 - Área geográfica;</br>
+		7.1.5 - Tráfego de rede;</br>
+		7.1.6 - Assinatura;</br>
+  
+	7.2 - Marketplace:</br>
+		7.2.1 - Apliativos de terceiros;</br>
+  
+		7.2.3 - Suporte com fornecedor do aplicativo.</br>
+	7.3 - Calculdora de preços:</br>
+ 
+		7.3.1 - Estimativa de preço;</br>
+		7.3.2 TCO:</br>
+  
+	7.4 - Estima os valores pra migrar para Nuvem;</br>
+		7.4.1 - Comparação de custos;</br>
+  
+	7.5 - Relatorio de cobrança:</br>
+		7.5.1 - Configure alertas.</br>
+
+------------------------------------------------------------------------------------------------------------------
+
 OBS: este doc será atualizado constantemente durante o curso!</br >
 
 #
